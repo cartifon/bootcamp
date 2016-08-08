@@ -13,3 +13,9 @@ Não existe receita perfeita, existem diversas formas diferentes de se resolver 
 - Curva de aprendizado;
 - Qualidade;
 - Automação;
+
+## Forest Shadows
+
+Não muito tempo atrás, era comum que todo trabalho de renderização de uma página, na web, fosse feito pelo servidor e retornada para o cliente para leitura, a cada requisição do cliente esse processo se repete, tendo um custo alto de processamento e memória. Aprendendo com os desafios que essa arquitetura gerou, uma nova forma de se pensar ficou popular e hoje separamos melhor o processamento das informações entre cliente e servidor.
+
+Imagine o potencial dos computadores atuais, podemos utilizar isso a nosso favor, podemos fazer boa parte do processamento da informação no cliente, desonerando o servidor e claro diminuindo os custos de operação.
