@@ -6,7 +6,7 @@ Então você se encontra no meio de um projeto onde precisa desenvolver soluçõ
 
 ## Survival Kit
 
-Não existe receita perfeita, existem diversas formas diferentes de se resolver um problema, o que importa de fato é o objetivo que precisamos alcançar. Independente do objetivo, temos algumas premissas pelo caminho que devemos comtemplar, por exemplo:
+Não existe receita perfeita, existem diversas formas diferentes de se resolver um problema, o que importa de fato é o objetivo que precisamos alcançar. Independente do objetivo, temos algumas premissas pelo caminho que devemos contemplar, por exemplo:
 
 - Performance;
 - Custo de manutenção;
@@ -22,7 +22,7 @@ Imagine o potencial dos computadores atuais, podemos utilizar isso a nosso favor
 
 ## Forest Trail
 
-Você sabe qual caminho percorrer, sabe dos desafios e talves precise de uma ajudinha. Não se preocupe, você não está sozinho, o guia abaixo irá lhe auxiliar durante todo o trajeto.
+Você sabe qual caminho percorrer, sabe dos desafios e talvez precise de uma ajudinha. Não se preocupe, você não está sozinho, o guia abaixo irá lhe auxiliar durante todo o trajeto.
 
 - [O que é Node.js?]()
 - [Como gerencio dependências em Node?]()
