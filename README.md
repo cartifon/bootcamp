@@ -19,3 +19,20 @@ Não existe receita perfeita, existem diversas formas diferentes de se resolver 
 Não muito tempo atrás, era comum que todo trabalho de renderização de uma página, na web, fosse feito pelo servidor e retornada para o cliente para leitura, a cada requisição do cliente esse processo se repete, tendo um custo alto de processamento e memória. Aprendendo com os desafios que essa arquitetura gerou, uma nova forma de se pensar ficou popular e hoje separamos melhor o processamento das informações entre cliente e servidor.
 
 Imagine o potencial dos computadores atuais, podemos utilizar isso a nosso favor, podemos fazer boa parte do processamento da informação no cliente, desonerando o servidor e claro diminuindo os custos de operação.
+
+## Forest Trail
+
+Você sabe qual caminho percorrer, sabe dos desafios e talves precise de uma ajudinha. Não se preocupe, você não está sozinho, o guia abaixo irá lhe auxiliar durante todo o trajeto.
+
+- [O que é Node.js?]()
+- [Como gerencio dependências em Node?]()
+- [Para que servem automatizadores de tarefa?]()
+- [Quais editores de texto ou IDE's posso utilizar?]()
+- [É possível saber se estou escrevendo um código correto?]()
+- [Como construir uma aplicação básica?]()
+- [Para que servem pré-processadores CSS?]()
+- [O que é Flexbox e como utiliza-lo em meus projetos?]()
+- [Como posso gerar a estrutura de um componente?]()
+- [O que são snippets e como utilizar?]()
+- [Como construir um componente Angular?]()
+- [Onde encontro referências para estudo?]()
